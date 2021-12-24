@@ -1,0 +1,20 @@
+
+.botonSelector{
+    background-color: rgb(125, 197, 197);
+    border: 1px;
+    border-color: blue;
+    margin: 0;
+    float: right;
+    display: flex;
+}
+ .presentation{
+    display: block;
+    text-align: center;
+    border: 5px;
+    
+}
+.hello{
+    border: 1px red;
+    
+    
+} 
