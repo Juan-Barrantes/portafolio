@@ -1,0 +1,40 @@
+
+.iconSelector{
+    border: 5px ;
+    background-color: #145374;
+    width: 50px;
+    height: 30px;
+    text-align: right;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    /* border-radius: 30%; */
+    position: relative;
+    /* left: 72%; */
+    float: right;
+    padding: 2px;
+    margin-left: 60px;
+}
+.iconSelector div{
+    background-color: #F6F5F5;
+    width: max-content;
+    border-radius: 50%;
+    width: 26px; height: 26px;
+    vertical-align: middle;
+    text-align: center;
+    top: 2px;
+    position: relative;
+}
+.iconSelector h5{
+    margin: 0;
+    position: relative;
+    top: 5px;
+    right: 15px;
+    width: fit-content;
+    background-color: aqua;
+    text-align: center;
+}
+.iconSelector div:hover{
+    cursor: pointer;
+}
